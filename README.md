@@ -55,4 +55,4 @@ The model precisely maps points based on standard peer-reviewed clinical validat
 - **Consciousness Depression Matrix:** Injects a +3 point risk adjustment score if level of consciousness fields display active exam impairments.
 
 ##  Open-Source License & Liability Protections
-This repository is deployed openly under the **MIT License**—permitting free open-source utilization and integration across academic and institutional registry workflows while enforcing standard software liability protections.
+This repository is deployed openly under the **MIT License** permitting free open-source utilization and integration across academic and institutional registry workflows while enforcing standard software liability protections.
